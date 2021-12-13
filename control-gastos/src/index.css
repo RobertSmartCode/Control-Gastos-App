@@ -146,6 +146,7 @@ header h1 {
     color: #b91c1c;
 }
 .alerta.success {
+    color:#042a67
 }
 
 .contenedor {
@@ -207,7 +208,7 @@ header h1 {
 }
 .contenido-presupuesto p.negativo,
 .contenido-presupuesto p.negativo span {
-    color: red;
+    color: #DC2626;
 }
 .contenido-presupuesto span {
     font-weight: 900;
